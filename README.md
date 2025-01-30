@@ -36,4 +36,4 @@ This is a Spelling and Grammar Checker built using Python, Flask, NLTK, and the 
 2. Navigate to `http://127.0.0.1:5000/` in your web browser.
 3. Input the text you want to correct and submit.
    
-#### mail id : saichowdary055@gmail.com
+#### mail id : kushivannela@gmail.com
